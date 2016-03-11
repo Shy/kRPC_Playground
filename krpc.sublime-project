@@ -1,0 +1,11 @@
+{
+    "settings": {
+    "python_interpreter": "/Users/TheLonelyGod/Documents/kRPC_tests/env/bin/python"
+    },
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	]
+}
